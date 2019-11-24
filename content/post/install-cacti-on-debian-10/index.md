@@ -16,8 +16,8 @@ authors = ["Raj"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tag = ["centos-8"]
-category = ["CentOS"]
+tags = ["centos-8"]
+categories = ["CentOS"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
