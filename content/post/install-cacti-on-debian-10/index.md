@@ -4,7 +4,7 @@ subtitle = ""
 description = "Cacti is an open source network monitoring tool designed as the front end application for the RRDtool. It allows users to poll services at an interval of time and resulting in a graph format."
 
 # Add a summary to display on homepage (optional).
-summary = "CentOS 8 was reeased on September 24th, 2019 by the CentOS Project. It is derived from RHEL 8 which was released on May 7th, 2019.""
+summary = "CentOS 8 was reeased on September 24th, 2019 by the CentOS Project. It is derived from RHEL 8 which was released on May 7th, 2019."
 
 
 date = 2019-06-23T07:53:53Z
